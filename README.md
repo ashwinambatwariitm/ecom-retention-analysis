@@ -154,8 +154,3 @@ Contact / verification
 
 ---
 
-
-- Generate more detailed cohort analysis code (needs more data).
-- Draft PR description text you can paste into GitHub.
-
-Which of these next steps would you like me to do right now?
